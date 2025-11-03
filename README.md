@@ -7,6 +7,8 @@ Windows: `winget install ffmpeg`
 MacOS: `brew install ffmpeg`  
 (Debian) Linux: `sudo apt install ffmpeg`  
 
+then run `pip install ffmpeg-python`  
+
 - Supports HDR images! (tested on AVIF)
 - Batch processes images in a folder
 - Controlable quality parameter
